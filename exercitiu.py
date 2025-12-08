@@ -1,0 +1,1 @@
+print("O noua zi incepe azi, 8 decembrie")
