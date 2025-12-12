@@ -7,3 +7,9 @@ variabala_2 = 'text'
 int variabila # este o variabla ce memoreaza doar numere intregi
 
 # variabilele nu pot incepe cu un numar, pot incepe cu _, nu pot avea un spatiu
+
+''' sfasf
+exemplu de comentarii usate cu trei linii sus
+'''
+
+variabila_mea = 1
