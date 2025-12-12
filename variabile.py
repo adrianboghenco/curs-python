@@ -61,4 +61,4 @@ verificare
 cod3 ? ok
 var_meah = True 
 
-
+print(variabala_2)
