@@ -17,3 +17,5 @@ variabila_mea = 1
 
 variabila_mea = "text" 
 
+variabila_2 = 65
+
